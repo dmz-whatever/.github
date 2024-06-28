@@ -1,11 +1,11 @@
-# ⭐️ Democratic MZ
+# 🎃 Democratic MZ
 
 
 ## 🙋‍♀️ 소개
 뭐든 만들자
 
 
-## 🌈 사람
+## 👻 사람
 <table>
 	<tbody>
 		<tr>
