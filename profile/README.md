@@ -1,11 +1,11 @@
 # ⭐️ Democratic MZ
 
 
-## 🙋‍♀️ 간단 소개
-**Democratic MZ**에 오신 것을 환영합니다!
+## 🙋‍♀️ 소개
+뭐든 만들자
 
 
-## 🌈 멤버
+## 🌈 사람
 <table>
 	<tbody>
 		<tr>
